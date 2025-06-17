@@ -1,4 +1,8 @@
 coco ver1 a;
 coco ver2 b;
-coco ver1 c;
-ver3;
+coco ver
+test git diff mod;
+
+test git diff add;
+
+something more
